@@ -1,0 +1,11 @@
+{
+    "name": "nativecmsphp/nativecmsphp",
+    "type": "project",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Core\\": "app/core",
+            "Libraries\\": "libraries" 
+        }
+    }
+}
